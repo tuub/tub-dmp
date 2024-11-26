@@ -2,7 +2,7 @@
   "private": true,
   "devDependencies": {
     "axios": "^0.21",
-    "bootstrap-sass": "^3.3.7",
+    "bootstrap-sass": "^3.4.1",
     "cross-env": "^5.2.0",
     "laravel-mix": "^2.1.11",
     "lodash": "^4.17.19",
