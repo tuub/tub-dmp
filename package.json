@@ -5,7 +5,7 @@
     "bootstrap-sass": "^3.3.7",
     "cross-env": "^5.2.0",
     "laravel-mix": "^2.1.11",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "napa": "^3.0.0",
     "vue": "^2.5.16",
     "yarn": "^1.22.0"
